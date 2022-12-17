@@ -323,5 +323,12 @@ SECCIÓN 8–8 Conversiones delta a Y ( Δ a Y) y Y a Δ
 
 5. CONCLUSIONES
 
+Al momento de desarrollar los ejercicios y problemas propuestos del Cap 7 y Cap 8 nos da conocer que tenemos las bases críticas para analizar e interpretar el funcionamiento de un circuito y como fluye la corriente a través de el, sea dicho circuito tenga una o más fuentes de voltaje que contenga una corriente equivalente o no, con el fin de aplicar los teoremas de voltaje vistos en clases y analizados por nuestra propia critica educativa.
 
 6.BIBLIOGRAFÍA 
+
+Picuino. (s. f.). Serie y paralelo - Electricidad y electrónica - Picuino. Picuino.com. Recuperado 17  de Diciembre  de 2022, de https://www.picuino.com/es/electric-serie-paralelo.html
+
+Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de
+Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
+
