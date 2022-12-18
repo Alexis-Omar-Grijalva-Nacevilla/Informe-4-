@@ -102,7 +102,8 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
-![image](https://user-images.githubusercontent.com/117738904/208257026-f0f2a48f-ee0c-45dc-94c0-92b3ae47348f.png)
+![image](https://user-images.githubusercontent.com/117738904/208322501-0141550e-213c-4e19-af10-96df6b60c7a3.png)
+
 
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
@@ -135,7 +136,7 @@ SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 ![image](https://user-images.githubusercontent.com/117738904/208257089-45eb2f73-23e2-40c8-8999-a99768d1228b.png)
 
 
-31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
+
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 
@@ -180,12 +181,6 @@ SECCIÓN 7–5 Redes en escalera
 45. Repita el problema 44 para las siguientes condiciones
 
 ![image](https://user-images.githubusercontent.com/117738904/208257249-2287a34a-5fe2-42c8-b333-8366c9098d9c.png)
-
-SECCIÓN 7–6 El puente Wheatstone
-
-47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 A para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mA, a 120,060 A, y los medidores a compresión disminuyen su resistencia en 60 mA, a 119.940 A, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
-
-![image](https://user-images.githubusercontent.com/117738904/208257268-4ddfb7ed-62e8-4664-89ab-557a80aa3523.png)
 
 SECCIÓN 7–7 Localización de fallas
 
@@ -293,9 +288,6 @@ SECCIÓN 8–6 Teorema de Norton
 
 ![image](https://user-images.githubusercontent.com/117738904/208260519-cfb9fc6d-178f-4fd0-a0f9-30ba3364eaaa.png)
 
-SECCIÓN 8–7 Teorema de transferencia de potencia máxima
-
-![image](https://user-images.githubusercontent.com/117738904/208260597-37a815bc-6296-4a3c-9e75-178965e76f45.png)
 
 
 33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada  a la red en configuración de escalera de la figura 8-87?
@@ -317,7 +309,7 @@ SECCIÓN 8–8 Conversiones delta a Y ( Δ a Y) y Y a Δ
 
 4. VÍDEO
 
-
+https://youtu.be/fl6iSMJY4LU
 
 
 
