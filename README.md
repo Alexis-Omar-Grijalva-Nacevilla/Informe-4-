@@ -315,7 +315,12 @@ https://youtu.be/fl6iSMJY4LU
 
 5. CONCLUSIONES
 
-Al momento de desarrollar los ejercicios y problemas propuestos del Cap 7 y Cap 8 nos da conocer que tenemos las bases críticas para analizar e interpretar el funcionamiento de un circuito y como fluye la corriente a través de el, sea dicho circuito tenga una o más fuentes de voltaje que contenga una corriente equivalente o no, con el fin de aplicar los teoremas de voltaje vistos en clases y analizados por nuestra propia critica educativa.
+
+
+•	Es de suma importancia entender todos los teoremas y conceptos aprendidos en ambos capítulos, ya que de esta manera reduciremos el tiempo de desarrollo de ejercicios y   sobre todo entender el funcionamiento de un circuito mixto.
+
+•	Al momento de desarrollar los ejercicios de ambos capítulos  nos damos cuenta que se debe dominar los conceptos de los anteriores capítulos y tener las suficientes  bases para analizar e interpretar el funcionamiento de un circuito y a la vez entender como fluye la corriente a través de el, sea que el circuito tenga una o más fuentes de voltaje que contenga una corriente equivalente o no, con el fin de aplicar los teoremas de voltaje vistos en clases y analizados por nuestra propia crítica educativa.
+
 
 6.BIBLIOGRAFÍA 
 
